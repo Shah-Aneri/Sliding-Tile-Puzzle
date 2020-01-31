@@ -14,3 +14,6 @@ The Luddy Puzzle:
 ◆ Cost: It is equal to the cost of the path from initial to goal state g(n) and heuristic function cost h(n)[h(n):- Optimal path from current state to goal state]
 
 ◆ Goal state: Arrange the tiles on the board in sorted manner with empty space at the end.
+
+
+Done  By: Aneri Shah, Dhruva Bhavsar, Hely Modi
